@@ -29,6 +29,19 @@
 @import "components/sitemap";
 @import "components/newsletter";
 @import "components/brands";
+// perso
+@import "pages/home.scss";
+@import "pages/about.scss";
+@import "pages/faq.scss";
+@import "pages/cgv.scss";
+@import "pages/confidentialite.scss";
+@import "pages/mentions-legales.scss";
+
+
+
+
+
+
 /*** HEADER ***/
 #header {
   background: white;
