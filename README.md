@@ -1,1 +1,1 @@
-themes
+Thème Prestashop pour Spiral billard
